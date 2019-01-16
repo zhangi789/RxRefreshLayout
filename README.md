@@ -8,6 +8,7 @@ RxRefreshLayout延伸了Google的SwipeRefreshLayout的思想,不在列表控件�
 5. setOnRefreshListener中拥有大量可以回调的方法
 6. 将Header和Footer抽象成了接口,并回调了滑动过程中的系数,方便实现个性化的Header和Footer
 7. 支持NestedScroll,嵌套CoordinatorLayout
+8. [使用demo](https://github.com/zhangi789/ReRxRefreshlayoutUseDemo) - 使用demo </br>
 
 
 ## tip
