@@ -389,4 +389,4 @@ appBarLayout.addOnOffsetChangedListener(new AppBarLayout.OnOffsetChangedListener
 
 </android.support.design.widget.CoordinatorLayout>
 ```
-注意给TwinklingRefreshLayout设置一个layout_behavior="@string/appbar_scrolling_view_behavior"
+注意给RxRefreshLayout设置一个layout_behavior="@string/appbar_scrolling_view_behavior"
