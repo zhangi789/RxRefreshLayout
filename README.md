@@ -27,7 +27,7 @@ RxRefreshLayout延伸了Google的SwipeRefreshLayout的思想,不在列表控件�
 
 	dependencies {
 	       //基础工具库
-       implementation 'com.github.zhangi789:RxRefreshLayout:3.1.2'
+       implementation 'com.github.zhangi789:RxRefreshLayout:3.1.3'
 	}
 
 #### 2.在xml中添加RxRefreshLayout
