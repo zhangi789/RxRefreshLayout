@@ -20,7 +20,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by lcodecore on 2017/3/7.
+ * @author 张海洋
+ * @Date on 2019/01/16.
+ * @org 上海..科技有限公司
+ * @describe
  */
 
 public class BallPulseView extends View implements IBottomView {

@@ -12,8 +12,10 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by cjj on 2015/8/5.
- * 绘制贝塞尔来绘制波浪形
+ * @author 张海洋
+ * @Date on 2019/01/16.
+ * @org 上海..科技有限公司
+ * @describe
  */
 public class WaveView extends View {
     private int waveHeight;

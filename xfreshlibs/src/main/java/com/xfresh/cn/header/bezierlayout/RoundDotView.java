@@ -8,7 +8,10 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by cjj on 2015/8/27.
+ * @author 张海洋
+ * @Date on 2019/01/16.
+ * @org 上海..科技有限公司
+ * @describe
  */
 public class RoundDotView extends View {
     private Paint mPath;

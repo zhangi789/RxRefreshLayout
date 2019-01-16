@@ -4,7 +4,10 @@ package com.xfresh.cn.processor;
 import com.xfresh.cn.RxRefreshLayout;
 
 /**
- * Created by lcodecore on 2017/3/3.
+ * @author 张海洋
+ * @Date on 2019/01/16.
+ * @org 上海..科技有限公司
+ * @describe
  */
 
 public abstract class Decorator implements IDecorator {

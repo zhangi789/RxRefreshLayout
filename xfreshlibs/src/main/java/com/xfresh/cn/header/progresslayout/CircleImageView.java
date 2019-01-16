@@ -14,10 +14,10 @@ import android.view.animation.Animation;
 import android.widget.ImageView;
 
 /**
- * Private class created to work around issues with AnimationListeners being
- * called before the animation is actually complete and support shadows on older
- * platforms.
- *
+ * @author 张海洋
+ * @Date on 2019/01/16.
+ * @org 上海..科技有限公司
+ * @describe
  */
 @SuppressLint("AppCompatCustomView")
 public class CircleImageView extends ImageView {

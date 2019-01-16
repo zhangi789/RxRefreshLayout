@@ -28,8 +28,10 @@ import java.lang.annotation.RetentionPolicy;
 import java.util.ArrayList;
 
 /**
- * Fancy progress indicator for Material theme.
- *
+ * @author 张海洋
+ * @Date on 2019/01/16.
+ * @org 上海..科技有限公司
+ * @describe
  */
 public class MaterialProgressDrawable extends Drawable implements Animatable {
     private static final Interpolator LINEAR_INTERPOLATOR = new LinearInterpolator();
